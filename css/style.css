@@ -51,7 +51,8 @@ p {
 
   .images {
 	  /* border: solid, teal; */
-	  padding: 5px 8px 0px 8px;
+	  padding: 5px 20px 0px 8px;
+	  margin: 0px 50px;
   }
 
   .footer {
